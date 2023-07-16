@@ -3,10 +3,6 @@
 ## Task 1 : Implement a basic program that uses ownership concepts
 This code snippet demonstrates the usage of borrowed references. Borrowed references are used to lend a value to another variable without transferring ownership. This reduces memory usage and improves runtime performance of the program.
 
-SUBMISSION
-
-31 people already completed this
-
 ## Task 2 : Create a simple calculator using enums and pattern matching
 
 1.  Create an enum called Operation with variants Add, Subtract, Multiply, and Divide. Each variant should hold two f64 values.
