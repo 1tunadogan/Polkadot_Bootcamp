@@ -14,13 +14,3 @@ This code snippet demonstrates the usage of borrowed references. Borrowed refere
 7.  Call the calculate function with the created Operation enum instance.
 8.  Print the result to the console.
 9.  Compile and run the program to ensure it works as expected.
-### Checklist
-1.  Define the Operation enum with the appropriate variants and values.
-2.  Write the calculate function signature.
-3.  Implement the calculate function using pattern matching to perform the appropriate arithmetic operation.
-4.  Prompt the user to input the first number, operation, and second number.
-5.  Parse the user input into appropriate variables.
-6.  Create an Operation enum instance with the parsed input values.
-7.  Call the calculate function with the created Operation enum instance.
-8.  Print the result to the console.
-9.  Compile and run the program to test its functionality.
